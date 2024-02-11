@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: Theo Maffei
+description: website
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Example
-    url: example
+
