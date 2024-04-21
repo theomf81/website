@@ -1,5 +1,5 @@
 # About me
 
-I am a Master student in Life Science Engineering at EPFL. I find coding interesting and fun. <br>
-I like hiking during my free time. 
+EPFL MSc in Life Science Engineering. I am passionate about science and explore its endless potential. br>
+During my freetime I enjoy spending time in nature by hiking. 
 
